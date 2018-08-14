@@ -69,7 +69,7 @@ class App extends Component {
         this.initMap();
       } else {
         // If it didn't - handle the error
-        console.log("Can't load the map!");
+        alert("Can't load the map!");
         this.setState({ requestWasSuccessful: false });
       }
     }
