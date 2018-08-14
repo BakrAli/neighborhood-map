@@ -1,0 +1,38 @@
+[
+  {
+    "key": "temple",
+    "title": "Karnak",
+    "type": "temple",
+    "position": { "lat": 25.7188346, "lng": 32.6572703 }
+  },
+  {
+    "key": "museum",
+    "title": "Luxor Museum",
+    "type": "museum",
+    "position": { "lat": 25.699502, "lng": 32.6390509 }
+  },
+  {
+    "key": "mortuary-temple",
+    "title": "Mortuary Temple of Hatshepsut",
+    "type": "temple",
+    "position": { "lat": 25.7382205, "lng": 32.6066314 }
+  },
+  {
+    "key": "road",
+    "title": "Valley of the Kings",
+    "type": "road",
+    "position": { "lat": 25.7401643, "lng": 32.601411 }
+  },
+  {
+    "key": "village",
+    "title": "Deir el-Medina",
+    "type": "village",
+    "position": { "lat": 25.728044, "lng": 32.601425 }
+  },
+  {
+    "key": "statue",
+    "title": "Colossi of Memnon",
+    "type": "statue",
+    "position": { "lat": 25.7205975, "lng": 32.6104556 }
+  }
+]
