@@ -49,7 +49,7 @@ class App extends Component {
           this.updateData(fetchedInfo);
         })
         .catch(function() {
-          console.log('Failed to fetch information');
+          alert('Failed to fetch information');
         });
     });
   }
