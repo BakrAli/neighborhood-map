@@ -49,7 +49,7 @@ class App extends Component {
           this.updateData(fetchedInfo);
         })
         .catch(function() {
-          alert('Failed to fetch information');
+          console.log('Failed to fetch information');
         });
     });
   }
@@ -69,7 +69,7 @@ class App extends Component {
         this.initMap();
       } else {
         // If it didn't - handle the error
-        alert("Can't load the map!");
+        console.log("Can't load the map!");
         this.setState({ requestWasSuccessful: false });
       }
     }
